@@ -1,7 +1,6 @@
 # vanilla-Luxon
-prototype extentions that allow luxon objects to be used with components that expect vanilla JS Date
 
-[![MIT License][license-image]][license]  [![PRs welcome]
+[![MIT License][license-image]][license]  [![PRs welcome][contributing-image]][contributing-url]
 
 vanilla-Luxon is a library of prototype extentions that allow luxon objects to be used with components that expect 'vanilla' JS Date
 
@@ -25,3 +24,6 @@ Simply include vanilla-luxon.js after importing luxon
 
 [license-image]: http://img.shields.io/badge/license-MIT-blue.svg
 [license]: license.txt
+
+[contributing-url]: https://github.com/tonysepia/vanilla-luxon
+[contributing-image]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg
